@@ -1,0 +1,33 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Desktop/,$HOME/
+eDP Height 1080=560
+eDP Width 1920=1280
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/,file:$HOME/Downloads/
+listViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP XPosition=4
+eDP YPosition=57
+splitterSizes=425,212
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/dotfiles-main4.zip
+File2[$e]=$HOME/Desktop/fontawesome-free-5.15.4-desktop.zip
+Name1[$e]=dotfiles-main4.zip
+Name2[$e]=fontawesome-free-5.15.4-desktop.zip
+
+[Viewer]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAATUAAADtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP Height 1080=260
+eDP Width 1920=309
+eDP XPosition=652
+eDP YPosition=57

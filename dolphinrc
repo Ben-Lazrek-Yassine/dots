@@ -1,0 +1,43 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAACi/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAACiwAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAHfAAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAHfAAAAAoBAAADAAAEQwAAAosAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP Height 1080=689
+eDP Width 1920=1276
+eDP XPosition=405
+eDP YPosition=201
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Profile 3.profile
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2023,2,23,14,34,32
+
+[IconsMode]
+FontWeight=50
+
+[KPropertiesDialog]
+eDP Height 1080=544
+eDP Width 1920=438
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAChfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAmAAAChQAAAEoA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAHfAAAAL78AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAHfAAAAAIA////AAAEPQAAAoUAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP Height 1080=683
+eDP Width 1920=1276
+eDP XPosition=85
+eDP YPosition=154
+
+[PreviewSettings]
+Plugins=directorythumbnail,djvuthumbnail,exrthumbnail,jpegthumbnail,windowsexethumbnail,audiothumbnail,fontthumbnail,svgthumbnail,ebookthumbnail,kraorathumbnail,imagethumbnail,windowsimagethumbnail,opendocumentthumbnail,comicbookthumbnail
+
+[SettingsDialog]
+eDP Height 1080=440
+eDP Width 1920=589

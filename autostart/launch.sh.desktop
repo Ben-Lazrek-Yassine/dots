@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/home/regal/.config/polybar/colorblocks/launch.sh
+Icon=
+Name=launch.sh
+Path=
+Terminal=False
+Type=Application
