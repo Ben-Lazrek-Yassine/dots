@@ -68,10 +68,6 @@ colors:
     - { index: 20, color: '0xb2ccd6' }
     - { index: 21, color: '0xeeffff' }
 
-# cursor:
-#   style: Underline
-
-#   unfocused_hollow: false
 
 live_config_reload: true
                  
