@@ -121,8 +121,6 @@ fi
 alias vm-on="sudo systemctl start libvirtd.service"
 alias vm-off="sudo systemctl stop libvirtd.service"
 
-alias musica="ncmpcpp"
-
 #  ┌─┐┬ ┬┌┬┐┌─┐  ┌─┐┌┬┐┌─┐┬─┐┌┬┐
 #  ├─┤│ │ │ │ │  └─┐ │ ├─┤├┬┘ │ 
 #  ┴ ┴└─┘ ┴ └─┘  └─┘ ┴ ┴ ┴┴└─ ┴ 
