@@ -3,8 +3,7 @@
 #  ╚═╝╚═╝╩ ╩╩╚═╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝	- My zsh conf
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-alias ls='lsd'
-alias cat='batcat'
+
 export PATH=/home/regal/.cargo/bin:$PATH
 #  ┬  ┬┌─┐┬─┐┌─┐
 #  └┐┌┘├─┤├┬┘└─┐
@@ -117,7 +116,8 @@ fi
 #  ┌─┐┬  ┬┌─┐┌─┐
 #  ├─┤│  │├─┤└─┐
 #  ┴ ┴┴─┘┴┴ ┴└─┘
-
+alias ls='lsd'
+alias cat='batcat'
 alias vm-on="sudo systemctl start libvirtd.service"
 alias vm-off="sudo systemctl stop libvirtd.service"
 
